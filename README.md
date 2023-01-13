@@ -1,14 +1,13 @@
 ### Hello, Im Rere! 👋
 
 
-<img align = "right" width = "300" alt ="coding" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="">
+<img margin = "20" align = "" width = "300" alt ="coding" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="">
 
 - 🔭 I’m currently working on using webXR and threeJS to create virtual try on solutions
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on interesting web and app development projects
 - 💬 Ask me about anything Javascript
 - 📫 How to reach me: Twitter - [@reretws](https://twitter.com/reretws), Email - theredeveloper.ai@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm an amazing writer and I make music too.
 
 
