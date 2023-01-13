@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm an amazing writer and I make music too.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiyemomi)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiyemomi">
